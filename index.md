@@ -12,6 +12,6 @@ Więcej informacji na temat projektu znajdziecie [tutaj](https://github.com/AGH-
 
 # Zespół theGrupa123
 * Konrad Bodzioch
-* Krzysztof Góra
+* [Krzysztof Góra](https://krzysztofgg.github.io/)
 * Piotr Karaś
 * Wiktor Kryzia
