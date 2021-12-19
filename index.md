@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Główne projekty:
 
-You can use the [editor on GitHub](https://github.com/Bodzio-2/Bodzio-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Dario Bot
+[Projekt](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/theGrupa123) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dario Bot jest relatywnie nieskomplikowanym chat botem pozwalającym na prowadzenie konwersacji poprzez discorda, lub (w przyszłośći) inne aplikacje komunikacyjne.
 
-### Markdown
+Tworzony jest przez zespół **theGrupa123** w ramach zajęć z *narzędzi Informatycznych*. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Więcej informacji na temat projektu znajdziecie [tutaj](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/theGrupa123/wiki)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bodzio-2/Bodzio-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Zespół theGrupa123
+* Konrad Bodzioch
+* Krzysztof Góra
+* Piotr Karaś
+* Wiktor Kryzia
